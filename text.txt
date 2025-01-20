@@ -1,0 +1,9 @@
+To push on github
+                    o   git init
+                    o   git add .
+                    o   git commit -m "Initial commit"
+                    o   git branch -M main
+                    o   git remote add origin <repository URL>
+                    o   git push u origin main
+                    if there is any error in push on main branch
+                    o   git push --force origin main
